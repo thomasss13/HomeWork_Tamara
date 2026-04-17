@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Василий",
+        "age": 20,
+        "experience": 2,
+        "grade": 1
+    },
+    {
+        "name": "Мария",
+        "age": 29,
+        "experience": 5,
+        "grade": 3
+    },
+    {
+        "name": "Арсений",
+        "age": 49,
+        "experience": 13,
+        "grade": 3
+    }
+]
