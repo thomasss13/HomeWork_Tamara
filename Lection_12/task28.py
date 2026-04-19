@@ -23,4 +23,4 @@ if __name__ == "__main__":
     
     total_ships = count_ships(game_field)
     
-    print(f"\n🚢 Всего кораблей на поле: {total_ships}")
+    print(f"\nВсего кораблей на поле: {total_ships}")
